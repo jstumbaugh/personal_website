@@ -1,0 +1,31 @@
+title: Jason Stumbaugh
+email: stumbaughjason@gmail.com
+url: https://jasonstumbaugh.com
+description: Web Developer & Software Engineer
+
+nav_title: Jason Stumbaugh
+
+about_title: About Jason Stumbaugh
+
+section_2_title: Portfolio
+section_2_description: You can view most of my coding work on Github.
+
+contact_description: Feel free to contact me about anything.
+
+footer: Jason Stumbaugh
+
+social:
+  - title: twitter
+    url: https://twitter.com/jdstumbaugh
+  - title: facebook
+    url: https://www.facebook.com/jason.stumbaugh.22
+  - title: linkedin
+    url: https://www.linkedin.com/in/jasonstumbaugh/
+
+color:
+  primary-dark: '#000000'
+  links: '#459e54'
+  links-hover: '#53b553'
+
+markdown: kramdown
+permalink: pretty
