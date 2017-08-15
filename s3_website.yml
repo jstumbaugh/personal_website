@@ -1,6 +1,6 @@
-s3_id: AKIAI2WMRAKK4HIZFB2Q
-s3_secret: 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
-s3_bucket: www.jasonstumbaugh.com
+s3_id:
+s3_secret:
+s3_bucket:
 
 # set s3_token if using temporary credentials with a session token (eg: when assuming a role)
 # s3_token: YOUR_AWS_S3_SESSION_TOKEN
