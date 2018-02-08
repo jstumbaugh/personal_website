@@ -1,4 +1,4 @@
 echo "Building blog"
-jekyll build
+jekyll build --incremental
 echo "Deploying blog to s3"
 s3_website push
